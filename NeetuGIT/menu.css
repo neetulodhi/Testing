@@ -1,0 +1,27 @@
+.text_pt2	{
+	font-family:sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-size:13;
+	color:black;
+	text-align:justify;
+}
+
+.text_ptamt	{
+	font-family:sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-size:12;
+	color:white;
+	text-align:right;
+}
+
+.text_pt1	{
+	font-family:sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-size:12;
+	color:white;
+	text-align:justify;
+}
+
+.text_pt3	{
+	font-family:sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-size:15;
+	color:white;
+	
+}
